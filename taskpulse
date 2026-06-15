@@ -1,0 +1,40 @@
+# TaskPulse
+
+TaskPulse is an AI-powered task prioritization system designed to help individuals and teams focus on what matters most.
+
+Unlike traditional to-do lists, TaskPulse continuously analyzes task urgency, importance, estimated effort, and user productivity habits to generate a dynamic priority score.
+
+## Features
+
+* Smart task prioritization
+* Deadline risk prediction
+* Productivity analytics
+* Team workload balancing
+* REST API support
+* Docker deployment
+* Real-time notifications
+* Custom scoring algorithms
+
+## Tech Stack
+
+* Python
+* FastAPI
+* PostgreSQL
+* Redis
+* Docker
+* React Dashboard
+
+## Example Use Case
+
+A software development team can use TaskPulse to automatically identify critical tasks that are at risk of missing deadlines and redistribute workloads accordingly.
+
+## Future Roadmap
+
+* AI-generated work schedules
+* Slack integration
+* GitHub Issues synchronization
+* Predictive project completion analysis
+
+## License
+
+MIT License
