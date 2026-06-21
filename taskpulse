@@ -6,16 +6,6 @@ Unlike traditional to-do lists, TaskPulse continuously analyzes task urgency, im
 
 ## Features
 
-* Smart task prioritization
-* Deadline risk prediction
-* Productivity analytics
-* Team workload balancing
-* REST API support
-* Docker deployment
-* Real-time notifications
-* Custom scoring algorithms
-
-## Tech Stack
 
 * Python
 * FastAPI
@@ -41,3 +31,13 @@ MIT License
 npm install
 npm start
 
+* Smart task prioritization
+* Deadline risk prediction
+* Productivity analytics
+* Team workload balancing
+* REST API support
+* Docker deployment
+* Real-time notifications
+* Custom scoring algorithms
+
+## Tech Stack
